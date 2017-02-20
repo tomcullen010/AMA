@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_navigator">
+    <sys_navigator action="INSERT_OR_UPDATE">
+        <class_name/>
+        <script><![CDATA[var url = '';
+var sysid = g_uri.get('sys_id');
+var isCompatible = sn_sm.SMTemplateCompatibility.getCompatibility();
+if (isCompatible == 'block') {
+	url =  g_uri.toString(); 
+}
+else {
+   g_uri.set('sysparm_sys_id', sysid);
+   g_uri.set('sysparm_record_target','x_snc_open_channel1_request_template');
+   g_uri.set('sysparm_title','Open Channel1 Request Template');
+   g_uri.set('sysparm_app_name','open_channel1');
+   url =  g_uri.toString('$sm_templates.do');
+}
+url;]]></script>
+        <sys_class_name>sys_navigator</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-20 16:41:22</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f791297d13c1f640d70550f82244b00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_open_channel1_request_template</sys_name>
+        <sys_package display_value="Open Channel1" source="x_snc_open_channel">6051217d13c1f640d70550f82244b06c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Open Channel1">6051217d13c1f640d70550f82244b06c</sys_scope>
+        <sys_update_name>sys_navigator_f791297d13c1f640d70550f82244b00f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-20 16:41:22</sys_updated_on>
+        <table>x_snc_open_channel1_request_template</table>
+    </sys_navigator>
+</record_update>

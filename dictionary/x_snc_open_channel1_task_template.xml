@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_servicetask_product_model" label="Open Channel1 Task Template" max_length="40" name="x_snc_open_channel1_task_template" type="collection"/>
+</database>

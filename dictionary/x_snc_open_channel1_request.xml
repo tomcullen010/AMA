@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="text_index_translations=true" audit="true" extends="sm_order" label="Open Channel1 Request" max_length="40" name="x_snc_open_channel1_request" sizeclass="5" type="collection">
+        <element label="Delegate" max_length="32" name="x_snc_open_channel_delegate" reference="sys_user" type="reference"/>
+        <element label="Detailed Response" max_length="4000" name="x_snc_open_channel_detailed_response" type="translated_text"/>
+    </element>
+</database>

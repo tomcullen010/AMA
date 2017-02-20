@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="1c9b86b91305f640d70550f82244b0ef" sys_domain="global" table="x_snc_open_channel1_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-20 19:44:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>909b86b91305f640d70550f82244b0f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_open_channel1_request" name="x_snc_open_channel1_request" sys_domain="global" view="d49b86b91305f640d70550f82244b0ee">1c9b86b91305f640d70550f82244b0ef</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_open_channel1_request" sys_domain="global" view="d49b86b91305f640d70550f82244b0ee">509b86b91305f640d70550f82244b0ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-20 19:44:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-20 19:44:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>149b86b91305f640d70550f82244b0f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_open_channel1_request" name="x_snc_open_channel1_request" sys_domain="global" view="d49b86b91305f640d70550f82244b0ee">1c9b86b91305f640d70550f82244b0ef</sys_ui_form>
+            <sys_ui_section caption="Activity History" display_value="Activity History" name="x_snc_open_channel1_request" sys_domain="global" view="d49b86b91305f640d70550f82244b0ee">949b86b91305f640d70550f82244b0ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-20 19:44:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_open_channel1_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-20 19:44:38</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c9b86b91305f640d70550f82244b0ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_open_channel1_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Open Channel1" source="x_snc_open_channel">6051217d13c1f640d70550f82244b06c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Open Channel1">6051217d13c1f640d70550f82244b06c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1c9b86b91305f640d70550f82244b0ef</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-20 19:44:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="AMA Admin View" name="AMA_Admin_View">d49b86b91305f640d70550f82244b0ee</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

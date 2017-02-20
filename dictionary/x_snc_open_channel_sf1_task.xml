@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sf_sm_flow" label="Open Channel1 Task Flow" max_length="40" name="x_snc_open_channel_sf1_task" type="collection"/>
+</database>
