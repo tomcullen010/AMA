@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="sm_task" label="Open Channel1 Task" max_length="40" name="x_snc_open_channel1_task" sizeclass="4" type="collection"/>
+    <element audit="true" extends="sm_task" label="Open Channel1 Task" max_length="40" name="x_snc_open_channel1_task" sizeclass="7" type="collection"/>
 </database>

@@ -5,111 +5,83 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>e291e57d13c1f640d70550f82244b0ab</sys_id>
+            <sys_created_on>2017-02-22 03:39:33</sys_created_on>
+            <sys_id>fad1c156130df640d70550f82244b013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
+            <sys_updated_on>2017-02-22 03:39:33</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>actual_travel_start</element>
+            <element>work_start</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>6691e57d13c1f640d70550f82244b0ab</sys_id>
+            <sys_created_on>2017-02-22 03:39:33</sys_created_on>
+            <sys_id>7ed1c156130df640d70550f82244b013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_start</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>e691e57d13c1f640d70550f82244b0ab</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
+            <sys_updated_on>2017-02-22 03:39:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_end</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>6a91e57d13c1f640d70550f82244b0ab</sys_id>
+            <sys_created_on>2017-02-22 03:39:33</sys_created_on>
+            <sys_id>fed1c156130df640d70550f82244b013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
+            <sys_updated_on>2017-02-22 03:39:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>ea91e57d13c1f640d70550f82244b0ab</sys_id>
+            <sys_created_on>2017-02-22 03:39:33</sys_created_on>
+            <sys_id>72d1c156130df640d70550f82244b014</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
+            <sys_updated_on>2017-02-22 03:39:33</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>actual_travel_duration</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>6e91e57d13c1f640d70550f82244b0ab</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>calendar_duration</element>
-            <position>6</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>ee91e57d13c1f640d70550f82244b0ab</sys_id>
+            <sys_created_on>2017-02-22 03:39:33</sys_created_on>
+            <sys_id>f2d1c156130df640d70550f82244b014</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
+            <sys_updated_on>2017-02-22 03:39:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-20 16:41:17</sys_created_on>
-            <sys_id>6291e57d13c1f640d70550f82244b0ac</sys_id>
+            <sys_created_on>2017-02-22 03:39:33</sys_created_on>
+            <sys_id>76d1c156130df640d70550f82244b014</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_open_channel1_task" sys_domain="global" view="Default view">ee91e57d13c1f640d70550f82244b0aa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-20 16:41:17</sys_updated_on>
+            <sys_updated_on>2017-02-22 03:39:33</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
