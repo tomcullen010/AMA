@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>defeb016130df640d70550f82244b0b5</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>500- Do not show assignee to requestor</sys_name>
         <sys_overrides/>
         <sys_package display_value="Open Channel1" source="x_snc_open_channel">6051217d13c1f640d70550f82244b06c</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Open Channel1">6051217d13c1f640d70550f82244b06c</sys_scope>
         <sys_update_name>sys_ui_policy_defeb016130df640d70550f82244b0b5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-22 05:18:51</sys_updated_on>
+        <sys_updated_on>2017-02-22 12:08:21</sys_updated_on>
         <table>x_snc_open_channel1_request</table>
         <ui_type>0</ui_type>
         <view/>

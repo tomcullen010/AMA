@@ -34,12 +34,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-22 05:21:16</sys_created_on>
         <sys_id>bc29515e130df640d70550f82244b078</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-22 05:22:31</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2017-02-22 11:51:43</sys_updated_on>
         <table>x_snc_open_channel1_request</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Open Channel Workflow">d33b39751305f640d70550f82244b06c</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
