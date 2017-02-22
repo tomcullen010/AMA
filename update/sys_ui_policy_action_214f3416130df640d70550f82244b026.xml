@@ -19,7 +19,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-02-22 03:28:33</sys_updated_on>
         <table>x_snc_open_channel1_request</table>
-        <ui_policy display_value="Do not show assignee to requestor">defeb016130df640d70550f82244b0b5</ui_policy>
+        <ui_policy display_value="500- Do not show assignee to requestor">defeb016130df640d70550f82244b0b5</ui_policy>
         <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>

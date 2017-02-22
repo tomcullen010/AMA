@@ -19,7 +19,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-02-22 03:13:41</sys_updated_on>
         <table>x_snc_open_channel1_request</table>
-        <ui_policy display_value="Hide Requested due by ">7d7b7c92130df640d70550f82244b0ab</ui_policy>
+        <ui_policy display_value="200- Hide Requested due by ">7d7b7c92130df640d70550f82244b0ab</ui_policy>
         <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>
